@@ -1,0 +1,11 @@
+{
+	"id": "alphatab-obsidian",
+	"name": "alphaTab Obsidian",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Use alphaTab in Obsidian.",
+	"author": "danielku15",
+	"authorUrl": "https://github.com/danielku15",
+	"fundingUrl": "https://obsidian.md/pricing",
+	"isDesktopOnly": true
+}
