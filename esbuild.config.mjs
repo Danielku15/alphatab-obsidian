@@ -49,6 +49,20 @@ const context = await esbuild.context({
 			}],
 			watch: true,
 		}),
+		copy({
+			assets: [{
+				from: ['./node_modules/@coderline/alphatab/dist/font/Bravura.woff2'],
+				to: ['./font/'],
+			}],
+			watch: true,
+		}),
+		copy({
+			assets: [{
+				from: ['./node_modules/@coderline/alphatab/dist/soundfont/sonivox.sf3'],
+				to: ['./soundfont/'],
+			}],
+			watch: true,
+		}),
 	],
 
 });

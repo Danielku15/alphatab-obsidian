@@ -23,7 +23,7 @@
 		"typescript": "4.7.4"
 	},
 	"dependencies": {
-		"@coderline/alphatab": "^1.6.0-alpha.1442",
+		"@coderline/alphatab": "^1.6.1",
 		"color-convert": "^3.1.0"
 	}
 }
